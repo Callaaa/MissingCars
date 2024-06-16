@@ -1,0 +1,4 @@
+62821K,BMW,Zelen,Mimi,74394,992,Ivan Vazov
+762821K,BMW,Cheren,Riki,74394,992,Ivan Vazov
+362821K,Audi,Lilav,Pesho,74394,992,Ivan Vazov
+A62821K,Mercedes,Siv,Stef,74394,992,Ivan Vazov

@@ -1,0 +1,8 @@
+P:\IzdirvaniKoli_OOP\IzdirvaniKoli_OOP\obj\Debug\IzdirvaniKoli_OOP.csproj.AssemblyReference.cache
+P:\IzdirvaniKoli_OOP\IzdirvaniKoli_OOP\obj\Debug\IzdirvaniKoli_OOP.csproj.SuggestedBindingRedirects.cache
+P:\IzdirvaniKoli_OOP\IzdirvaniKoli_OOP\obj\Debug\IzdirvaniKoli_OOP.csproj.CoreCompileInputs.cache
+P:\IzdirvaniKoli_OOP\IzdirvaniKoli_OOP\bin\Debug\IzdirvaniKoli_OOP.exe.config
+P:\IzdirvaniKoli_OOP\IzdirvaniKoli_OOP\bin\Debug\IzdirvaniKoli_OOP.exe
+P:\IzdirvaniKoli_OOP\IzdirvaniKoli_OOP\bin\Debug\IzdirvaniKoli_OOP.pdb
+P:\IzdirvaniKoli_OOP\IzdirvaniKoli_OOP\obj\Debug\IzdirvaniKoli_OOP.exe
+P:\IzdirvaniKoli_OOP\IzdirvaniKoli_OOP\obj\Debug\IzdirvaniKoli_OOP.pdb
